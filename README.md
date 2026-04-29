@@ -1,2 +1,7 @@
-# demo-rautenberg-gatto-estudio-juridico-admini
-Demo web para Rautenberg &amp; Gatto Estudio Jurídico - Administradora de Consorcios — diseñada por eterlab.
+# Rautenberg & Gatto Estudio Jurídico - Administradora de Consorcios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
